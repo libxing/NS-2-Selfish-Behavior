@@ -825,7 +825,7 @@
                if (degree(nb_tuple) > degree(max)) {
                  max = nb_tuple;
                  max_r = r;
-               } else
+               }
                   
              }
            }
